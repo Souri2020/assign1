@@ -154,7 +154,7 @@ Now there are two branches (`master` and `updated`), and the `*` denotes that yo
 
 ### Step 5: Improve this Text ###
 
-Make an edit to this file (`README.md`), which is in [Markdown](https://en.wikipedia.org/wiki/Markdown) (specifically [GitHub-flavored Markdown](https://github.github.com/gfm/)) format.
+Make an edit to this file (`README.md`) to the local file on your computer, which is in [Markdown](https://en.wikipedia.org/wiki/Markdown) (specifically [GitHub-flavored Markdown](https://github.github.com/gfm/)) format.
 Your edit should somehow improve the content.
 This can mean adding further descriptions, adding demonstrative pictures, etc.
 
